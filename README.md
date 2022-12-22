@@ -15,9 +15,9 @@ o usuário deveria cobrar pela hora trabalhada tendo 50% de lucro.
 # 🛠 Tools and technologies
 
 ## Front-end
-HTML
-CSS
-JavaScript
+<p>HTML</p>
+<p>CSS</p>
+<p>JavaScript</p>
 
 ![image](https://i.postimg.cc/hPZJm2B1/1.jpg)
 ![image](https://i.postimg.cc/MphvPXXc/2.jpg)
