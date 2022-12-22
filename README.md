@@ -3,6 +3,7 @@
 
 # 📕 About the project
 
+
 Front-end project of a calculator that calculates the cost of hours worked. The user enters the values and the application returns how much the 
 user should charge for the hour worked having 50% of profit.
 ---
