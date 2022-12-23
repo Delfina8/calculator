@@ -18,6 +18,7 @@ o usuário deveria cobrar pela hora trabalhada tendo 50% de lucro.</p>
 <p>CSS</p>
 <p>JavaScript</p>
 
+[![Watch the video](https://i.postimg.cc/hPZJm2B1/1.jpg)](https://youtu.be/NcwUe3KqsbU)
 ![image](https://i.postimg.cc/hPZJm2B1/1.jpg)
 ![image](https://i.postimg.cc/MphvPXXc/2.jpg)
 
